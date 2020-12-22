@@ -1,7 +1,7 @@
 {
    
     "name": "second",
-    "version": "0.0.0",,
+    "version": "0.0.0",
     "engines": {
       "node": "12.x"
     },
